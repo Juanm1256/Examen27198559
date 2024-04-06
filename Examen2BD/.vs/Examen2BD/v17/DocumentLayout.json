@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\implementacion\\clientelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\implementacion\\clientelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\endpoint\\clientefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\endpoint\\clientefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\endpoint\\pedidofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\endpoint\\pedidofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,14 +87,6 @@
       "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\endpoint\\clientefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\endpoint\\clientefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\implementacion\\clientelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\implementacion\\clientelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\implementacion\\productologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\implementacion\\productologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -114,24 +114,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PedidoDetalle.cs",
-              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\DTOS\\PedidoDetalle.cs",
-              "RelativeDocumentMoniker": "Examen.API.Venta\\DTOS\\PedidoDetalle.cs",
-              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\DTOS\\PedidoDetalle.cs",
-              "RelativeToolTip": "Examen.API.Venta\\DTOS\\PedidoDetalle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T14:34:06.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PedidoFunction.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\PedidoFunction.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\EndPoint\\PedidoFunction.cs",
@@ -144,19 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductoLogic.cs",
-              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IProductoLogic.cs",
-              "RelativeDocumentMoniker": "Examen.API.Venta\\Contratos\\IProductoLogic.cs",
-              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IProductoLogic.cs",
-              "RelativeToolTip": "Examen.API.Venta\\Contratos\\IProductoLogic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T11:57:18.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IDetalleLogic.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IDetalleLogic.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\Contratos\\IDetalleLogic.cs",
@@ -168,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DetalleLogic.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\DetalleLogic.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\Implementacion\\DetalleLogic.cs",
@@ -176,12 +151,11 @@
               "RelativeToolTip": "Examen.API.Venta\\Implementacion\\DetalleLogic.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:00:36.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T12:00:36.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PedidoLogic.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\PedidoLogic.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\Implementacion\\PedidoLogic.cs",
@@ -189,12 +163,11 @@
               "RelativeToolTip": "Examen.API.Venta\\Implementacion\\PedidoLogic.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAACAAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:00:27.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T12:00:27.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ReportLogic.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\ReportLogic.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\Implementacion\\ReportLogic.cs",
@@ -206,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IPedidoLogic.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IPedidoLogic.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\Contratos\\IPedidoLogic.cs",
@@ -214,12 +187,61 @@
               "RelativeToolTip": "Examen.API.Venta\\Contratos\\IPedidoLogic.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T11:57:33.321Z",
+              "WhenOpened": "2024-04-06T11:57:33.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteFunction.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\ClienteFunction.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\EndPoint\\ClienteFunction.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\ClienteFunction.cs",
+              "RelativeToolTip": "Examen.API.Venta\\EndPoint\\ClienteFunction.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:13:39.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "ClienteLogic.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\ClienteLogic.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Implementacion\\ClienteLogic.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\ClienteLogic.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Implementacion\\ClienteLogic.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwC0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:00:06.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductoLogic.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IProductoLogic.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Contratos\\IProductoLogic.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IProductoLogic.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Contratos\\IProductoLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:57:18.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoDetalle.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\DTOS\\PedidoDetalle.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\DTOS\\PedidoDetalle.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\DTOS\\PedidoDetalle.cs",
+              "RelativeToolTip": "Examen.API.Venta\\DTOS\\PedidoDetalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:34:06.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DetalleFunction.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\DetalleFunction.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\EndPoint\\DetalleFunction.cs",
@@ -231,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IReportesLogic.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IReportesLogic.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\Contratos\\IReportesLogic.cs",
@@ -243,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Reporte3.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\DTOS\\Reporte3.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\DTOS\\Reporte3.cs",
@@ -255,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ReportesFunction.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\ReportesFunction.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\EndPoint\\ReportesFunction.cs",
@@ -267,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ProductoFunction.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\ProductoFunction.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\EndPoint\\ProductoFunction.cs",
@@ -279,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Reporte2.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\DTOS\\Reporte2.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\DTOS\\Reporte2.cs",
@@ -291,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Program.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\Program.cs",
@@ -303,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "local.settings.json",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\local.settings.json",
               "RelativeDocumentMoniker": "Examen.API.Venta\\local.settings.json",
@@ -315,31 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ClienteLogic.cs",
-              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\ClienteLogic.cs",
-              "RelativeDocumentMoniker": "Examen.API.Venta\\Implementacion\\ClienteLogic.cs",
-              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\ClienteLogic.cs",
-              "RelativeToolTip": "Examen.API.Venta\\Implementacion\\ClienteLogic.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:00:06.513Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "ClienteFunction.cs",
-              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\ClienteFunction.cs",
-              "RelativeDocumentMoniker": "Examen.API.Venta\\EndPoint\\ClienteFunction.cs",
-              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\ClienteFunction.cs",
-              "RelativeToolTip": "Examen.API.Venta\\EndPoint\\ClienteFunction.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAwwCsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T12:13:39.783Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Detalle.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Modelo\\Detalle.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\Modelo\\Detalle.cs",
@@ -351,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Cliente.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Modelo\\Cliente.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\Modelo\\Cliente.cs",
@@ -363,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Pedido.cs",
               "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Modelo\\Pedido.cs",
               "RelativeDocumentMoniker": "Examen.API.Venta\\Modelo\\Pedido.cs",

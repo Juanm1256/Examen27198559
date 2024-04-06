@@ -37,13 +37,22 @@ namespace Examen.API.Venta.Implementacion
         public async Task<bool> Eliminar(int id)
         {
             bool sw = false;
-            Cliente eliminar = await contexto.Clientes.FirstOrDefaultAsync(x => x.IdCliente == id);
-            if (eliminar != null)
+            Cliente clienteAEliminar = await contexto.Clientes.FirstOrDefaultAsync(x => x.IdCliente == id);
+            if (clienteAEliminar != null)
             {
-                contexto.Clientes.Remove(eliminar);
+                var pedidosDelCliente = await contexto.Pedidos.Where(p => p.IdCliente == id).ToListAsync();
+                foreach (var pedido in pedidosDelCliente)
+                {
+                    var detallesDelPedido = await contexto.Detalles.Where(d => d.IdPedido == pedido.IdPedido).ToListAsync();
+                    contexto.Detalles.RemoveRange(detallesDelPedido);
+                }
+                contexto.Pedidos.RemoveRange(pedidosDelCliente);
+                contexto.Clientes.Remove(clienteAEliminar);
                 await contexto.SaveChangesAsync();
+
                 sw = true;
             }
+
             return sw;
         }
 
