@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\endpoint\\clientefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\endpoint\\clientefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\endpoint\\detallefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\endpoint\\detallefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\endpoint\\pedidofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\endpoint\\pedidofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\endpoint\\productofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\endpoint\\productofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\dtos\\reporte2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\dtos\\reporte2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\implementacion\\productologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\implementacion\\productologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\implementacion\\pedidologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\implementacion\\pedidologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\implementacion\\detallelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\implementacion\\detallelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\implementacion\\clientelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\implementacion\\clientelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\contextobd\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\contextobd\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\contratos\\iproductologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\contratos\\iproductologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\contratos\\ipedidologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\contratos\\ipedidologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\contratos\\idetallelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\contratos\\idetallelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\contratos\\iclientelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\contratos\\iclientelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\modelo\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\modelo\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\modelo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\modelo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|d:\\evaluacion2nt\\examen27198559\\examen2bd\\examen.api.venta\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285D850-0DA0-48B6-B2E0-6D1A1256084B}|Examen.API.Venta\\Examen.API.Venta.csproj|solutionrelative:examen.api.venta\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Migrations\\20240406115135_migra001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen.API.Venta\\Migrations\\20240406115135_migra001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoFunction.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\ProductoFunction.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\EndPoint\\ProductoFunction.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\ProductoFunction.cs",
+              "RelativeToolTip": "Examen.API.Venta\\EndPoint\\ProductoFunction.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAywIMAAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:28:06.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoFunction.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\PedidoFunction.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\EndPoint\\PedidoFunction.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\PedidoFunction.cs",
+              "RelativeToolTip": "Examen.API.Venta\\EndPoint\\PedidoFunction.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywBkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:26:18.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetalleFunction.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\DetalleFunction.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\EndPoint\\DetalleFunction.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\DetalleFunction.cs",
+              "RelativeToolTip": "Examen.API.Venta\\EndPoint\\DetalleFunction.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAywGQAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:23:58.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reporte2.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\DTOS\\Reporte2.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\DTOS\\Reporte2.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\DTOS\\Reporte2.cs",
+              "RelativeToolTip": "Examen.API.Venta\\DTOS\\Reporte2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:21:55.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteFunction.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\ClienteFunction.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\EndPoint\\ClienteFunction.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\EndPoint\\ClienteFunction.cs",
+              "RelativeToolTip": "Examen.API.Venta\\EndPoint\\ClienteFunction.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAywIMAAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:13:39.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetalleLogic.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\DetalleLogic.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Implementacion\\DetalleLogic.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\DetalleLogic.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Implementacion\\DetalleLogic.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:00:36.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteLogic.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\ClienteLogic.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Implementacion\\ClienteLogic.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\ClienteLogic.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Implementacion\\ClienteLogic.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:00:06.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoLogic.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\PedidoLogic.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Implementacion\\PedidoLogic.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\PedidoLogic.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Implementacion\\PedidoLogic.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwEUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:00:27.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoLogic.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\ProductoLogic.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Implementacion\\ProductoLogic.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Implementacion\\ProductoLogic.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Implementacion\\ProductoLogic.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAywEUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:00:16.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDetalleLogic.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IDetalleLogic.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Contratos\\IDetalleLogic.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IDetalleLogic.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Contratos\\IDetalleLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:57:53.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPedidoLogic.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IPedidoLogic.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Contratos\\IPedidoLogic.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IPedidoLogic.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Contratos\\IPedidoLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:57:33.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductoLogic.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IProductoLogic.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Contratos\\IProductoLogic.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IProductoLogic.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Contratos\\IProductoLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:57:18.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IClienteLogic.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IClienteLogic.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Contratos\\IClienteLogic.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Contratos\\IClienteLogic.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Contratos\\IClienteLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:57:03.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Program.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Program.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Program.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:49:27.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\local.settings.json",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\local.settings.json",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\local.settings.json",
+              "RelativeToolTip": "Examen.API.Venta\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T11:49:19.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\ContextoBD\\Contexto.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\ContextoBD\\Contexto.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\ContextoBD\\Contexto.cs",
+              "RelativeToolTip": "Examen.API.Venta\\ContextoBD\\Contexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:47:00.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240406115135_migra001.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Migrations\\20240406115135_migra001.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Migrations\\20240406115135_migra001.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Migrations\\20240406115135_migra001.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Migrations\\20240406115135_migra001.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:51:36.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Detalle.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Modelo\\Detalle.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Modelo\\Detalle.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Modelo\\Detalle.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Modelo\\Detalle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAxwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:46:33.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Modelo\\Pedido.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Modelo\\Pedido.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Modelo\\Pedido.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Modelo\\Pedido.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAxwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:45:58.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Modelo\\Producto.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Modelo\\Producto.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Modelo\\Producto.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Modelo\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:45:32.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Modelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "Examen.API.Venta\\Modelo\\Cliente.cs",
+              "ToolTip": "D:\\Evaluacion2NT\\Examen27198559\\Examen2BD\\Examen.API.Venta\\Modelo\\Cliente.cs",
+              "RelativeToolTip": "Examen.API.Venta\\Modelo\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:45:00.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
