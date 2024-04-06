@@ -1,4 +1,5 @@
-﻿using Examen.API.Venta.Modelo;
+﻿using Examen.API.Venta.DTOS;
+using Examen.API.Venta.Modelo;
 using System;
 using System.Collections.Generic;
 using System.Linq;

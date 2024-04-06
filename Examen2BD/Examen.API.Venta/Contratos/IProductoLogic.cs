@@ -9,7 +9,6 @@ namespace Examen.API.Venta.Contratos
 {
     public interface IProductoLogic
     {
-
         public Task<List<Producto>> Listar();
         public Task<Producto> ObtenerbyId(int id);
         public Task<bool> Insertar(Producto producto);

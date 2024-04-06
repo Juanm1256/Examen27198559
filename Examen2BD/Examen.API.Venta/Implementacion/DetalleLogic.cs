@@ -1,5 +1,6 @@
 ﻿using Examen.API.Venta.ContextoBD;
 using Examen.API.Venta.Contratos;
+using Examen.API.Venta.DTOS;
 using Examen.API.Venta.Modelo;
 using Microsoft.EntityFrameworkCore;
 using System;

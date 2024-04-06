@@ -1,4 +1,6 @@
+using Examen.API.Venta.ContextoBD;
 using Examen.API.Venta.Contratos;
+using Examen.API.Venta.DTOS;
 using Examen.API.Venta.Modelo;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -7,6 +9,7 @@ using Microsoft.Azure.Functions.Worker.Http;
 using Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.Attributes;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using System.Collections.Generic;
 using System.Net;
 
 namespace Examen.API.Venta.EndPoint
@@ -70,6 +73,7 @@ namespace Examen.API.Venta.EndPoint
         [Function("CreateDetalle")]
         [OpenApiOperation("InsertarDetalle", "Detalle", Description = "Crear nueva Detalle con sus datos")]
         [OpenApiRequestBody(contentType: "application/json", bodyType: typeof(Detalle), Description = "Inserte los datos de Detalle")]
+
         [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(Detalle), Description = "Insertará la Detalle")]
 
         public async Task<HttpResponseData> CreateDetalle([HttpTrigger(AuthorizationLevel.Function, "post")] HttpRequestData req)
@@ -153,5 +157,9 @@ namespace Examen.API.Venta.EndPoint
                 return re;
             }
         }
+
+        
+        
+
     }
 }

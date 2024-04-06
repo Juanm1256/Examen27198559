@@ -12,8 +12,8 @@ namespace Examen.API.Venta.Contratos
 
         public Task<List<Pedido>> Listar();
         public Task<Pedido> ObtenerbyId(int id);
-        public Task<bool> Insertar(Pedido pedido);
-        public Task<bool> Actualizar(Pedido pedido, int id);
+        public Task<bool> Insertar(Pedido pedido, Detalle detalle);
+        public Task<bool> Actualizar(Pedido pedido, Detalle detalle, int id);
         public Task<bool> Eliminar(int id);
     }
 }

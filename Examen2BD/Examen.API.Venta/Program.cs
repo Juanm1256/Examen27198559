@@ -1,4 +1,6 @@
 using Examen.API.Venta.ContextoBD;
+using Examen.API.Venta.Contratos;
+using Examen.API.Venta.Implementacion;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -16,6 +18,12 @@ var host = new HostBuilder()
         services.AddApplicationInsightsTelemetryWorkerService();
         services.ConfigureFunctionsApplicationInsights();
         services.AddDbContext<Contexto>(options => options.UseSqlServer(configuartion.GetConnectionString("cadenaConexion")));
+        services.AddScoped<IClienteLogic, ClienteLogic>();
+        services.AddScoped<IProductoLogic, ProductoLogic>();
+        services.AddScoped<IDetalleLogic, DetalleLogic>();
+        services.AddScoped<IPedidoLogic, PedidoLogic>();
+        services.AddScoped<IReportesLogic, ReportLogic>();
+
     })
     .Build();
 

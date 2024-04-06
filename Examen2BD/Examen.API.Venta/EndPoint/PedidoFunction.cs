@@ -70,6 +70,7 @@ namespace Examen.API.Venta.EndPoint
         [Function("CreatePedido")]
         [OpenApiOperation("InsertarPedido", "Pedido", Description = "Crear nueva Pedido con sus datos")]
         [OpenApiRequestBody(contentType: "application/json", bodyType: typeof(Pedido), Description = "Inserte los datos de Pedido")]
+        [OpenApiRequestBody(contentType: "application/json", bodyType: typeof(Detalle), Description = "Inserte los datos de Detalle")]
         [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(Pedido), Description = "Insertará la Pedido")]
 
         public async Task<HttpResponseData> CreatePedido([HttpTrigger(AuthorizationLevel.Function, "post")] HttpRequestData req)
@@ -77,6 +78,7 @@ namespace Examen.API.Venta.EndPoint
             try
             {
                 var per = await req.ReadFromJsonAsync<Pedido>() ?? throw new Exception("Debe ingresar una pedido con todos sus datos.");
+                var detallere = await req.ReadFromJsonAsync<Detalle>() ?? throw new Exception("Debe ingresar una Detalle con todos sus datos.");
                 bool Guardando = await repos.Insertar(per);
                 if (Guardando)
                 {
@@ -100,6 +102,8 @@ namespace Examen.API.Venta.EndPoint
         [OpenApiOperation("modificarPedido", "Pedido", Description = "Se modificara a la pedido con su respectivo id")]
         [OpenApiParameter(name: "id", In = ParameterLocation.Path, Type = typeof(int), Summary = "Id Pedido", Description = "Ingrese Id de la pedido")]
         [OpenApiRequestBody(contentType: "application/json", bodyType: typeof(Pedido), Description = "Inserte los datos de Pedido a Modificar")]
+        [OpenApiRequestBody(contentType: "application/json", bodyType: typeof(Detalle), Description = "Inserte los datos de Detalle")]
+
         [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(Pedido), Description = "Debe insertar a este modelo.")]
         public async Task<HttpResponseData> UpdatePedido([HttpTrigger(AuthorizationLevel.Function, "put", Route = "modificarPedido/{id}")] HttpRequestData req, int id)
         {
