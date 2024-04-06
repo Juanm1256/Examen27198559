@@ -19,20 +19,29 @@ namespace Examen.API.Venta.Implementacion
             this.contexto = contexto;
         }
 
-        public async Task<bool> Actualizar(Pedido pedido, int id)
+        public async Task<bool> Actualizar(Pedido pedido, Detalle detalle, int id)
         {
             bool sw = false;
-            Pedido modificar = await contexto.Pedidos.FirstOrDefaultAsync(x => x.IdPedido == id);
-            if (modificar != null)
+            Pedido modificarPedido = await contexto.Pedidos.FirstOrDefaultAsync(x => x.IdPedido == id);
+
+            if (modificarPedido != null)
             {
-                modificar.IdCliente = pedido.IdCliente;
-                modificar.Fecha = pedido.Fecha;
-                modificar.Total = pedido.Total;
-                modificar.Estado = pedido.Estado;
+                modificarPedido.IdCliente = pedido.IdCliente;
+                modificarPedido.Fecha = pedido.Fecha;
+                modificarPedido.Total = pedido.Total;
+                modificarPedido.Estado = pedido.Estado;
+                var detallesPedido = await contexto.Detalles.Where(x => x.IdPedido == id).ToListAsync();
+                foreach (var detallePedido in detallesPedido)
+                {
+                    detallePedido.IdProducto = detalle.IdProducto;
+                    detallePedido.Cantidad = detalle.Cantidad;
+                    detallePedido.Subtotal = detalle.Subtotal;
+                }
 
                 await contexto.SaveChangesAsync();
                 sw = true;
             }
+
             return sw;
         }
 
@@ -49,15 +58,18 @@ namespace Examen.API.Venta.Implementacion
             return sw;
         }
 
-        public async Task<bool> Insertar(Pedido pedido)
+        public async Task<bool> Insertar(Pedido pedido, Detalle detalle)
         {
             bool sw = false;
             contexto.Pedidos.Add(pedido);
-            int test = await contexto.SaveChangesAsync();
-            if (test == 1)
+            detalle.IdPedido = pedido.IdPedido;
+            contexto.Detalles.Add(detalle);
+            int registrosAfectados = await contexto.SaveChangesAsync();
+            if (registrosAfectados > 0)
             {
                 sw = true;
             }
+
             return sw;
         }
 
